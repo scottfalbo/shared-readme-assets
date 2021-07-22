@@ -95,3 +95,75 @@ Shared reusable image assets for project READMEs.
 <img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/github-light.png?raw=true" height=35 />
 
 `https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/github-light.png?raw=true`
+
+
+## Heroku
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/heroku.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/heroku.png?raw=true`
+
+
+## HTML
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/html.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/html.png?raw=true`
+
+
+## Instagram
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/instagram.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/instagram.png?raw=true`
+
+
+## Instagram Light
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/instagram_light.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/instagram_light.png?raw=true`
+
+
+## Instagram Dark
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/instagram_black.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/instagram_black.png?raw=true`
+
+
+## Java
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/java.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/java.png?raw=true`
+
+
+## JavaScript
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/javascript.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/javascript.png?raw=true`
+
+
+## jQuery
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/jQuery.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/jQuery.png?raw=true`
+
+
+## Azure Key Vault
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/key_vault.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/key_vault.png?raw=true`
+
+
+## LinkedIn
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/linkedIn.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/linkedIn.png?raw=true`
+
+
+## LinkedIn Light
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/linkedIn-white.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/linkedIn.png?raw=true`
+
+
+## LinkedIn Dark
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/linkedIn-black.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/linkedIn.png?raw=true`
