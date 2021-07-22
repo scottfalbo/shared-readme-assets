@@ -69,7 +69,7 @@ A centralized resource of language and technologies logos for use across project
 
 `https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/html.png?raw=true`
 
-[Back to Table of Contents](#contents)
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -249,7 +249,7 @@ A centralized resource of language and technologies logos for use across project
 
 `https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/xamarin.png?raw=true`
 
-[Back to Table of Contents](#contents)
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -315,7 +315,7 @@ A centralized resource of language and technologies logos for use across project
 `https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/facebook.png?raw=true`
 
 
-[Back to Table of Contents](#contents)
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -363,7 +363,7 @@ A centralized resource of language and technologies logos for use across project
 `https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/flStudio.png?raw=true`
 
 
-[Back to Table of Contents](#contents)
+[Back to Table of Contents](#table-of-contents)
 
 
 
