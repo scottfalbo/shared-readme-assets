@@ -4,7 +4,7 @@ A centralized resource of language and technologies logos for use across project
 
 ---
 
-## Contents
+## Table of Contents
 
 + [Implementation](#Implementation)
 + ### Icons
@@ -17,7 +17,11 @@ A centralized resource of language and technologies logos for use across project
 
 ## Implementation
 
-do the things
++ Use the icon urls below in your markdown or markup.
+    + `<img src="icon_url" />`
++ All image assets have a height of 300px.  To change the default size in markdown use an inline `height` or `width` attribute in your image tag.
+    + `<img src="icon_url" height=50>`
+    
 
 ---
 
