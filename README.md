@@ -167,3 +167,117 @@ Shared reusable image assets for project READMEs.
 <img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/linkedIn-black.png?raw=true" height=35 />
 
 `https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/linkedIn.png?raw=true`
+
+
+## Mongo
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/mongo.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/mongo.png?raw=true`
+
+
+## Netlify
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/netlify.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/netlify.png?raw=true`
+
+
+## Node.js
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/nodejs.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/nodejs.png?raw=true`
+
+
+## JavaScript Alt
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/og_javascript.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/og_javascript.png?raw=true`
+
+
+## Photon
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/photon.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/photon.png?raw=true`
+
+
+## Adobe Photoshop
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/photoshop.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/photoshop.png?raw=true`
+
+
+## PostgreSQL
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/postgres.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/postgres.png?raw=true`
+
+
+## Postman
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/postman.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/postman.png?raw=true`
+
+
+## Python
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/python.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/python.png?raw=true`
+
+
+## Raspberry Pi
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/raspberrypi.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/raspberrypi.png?raw=true`
+
+
+## React
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/react.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/react.png?raw=true`
+
+
+## Twilio Sendgrid
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/sendgrid.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/sendgrid.png?raw=true`
+
+
+## SignalR
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/signalR.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/signalR.png?raw=true`
+
+
+## Twilio
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/twilio.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/twilio.png?raw=true`
+
+
+## Unity
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/unity.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/unity.png?raw=true`
+
+
+## Vercel
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/vercel.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/vercel.png?raw=true`
+
+
+## Visual Studio
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/visual_studio.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/visual_studio.png?raw=true`
+
+
+## Visual Studio Code
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/vscode.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/vscode.png?raw=true`
+
+
+## Xamarin
+<img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/xamarin.png?raw=true" height=35 />
+
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/xamarin.png?raw=true`
