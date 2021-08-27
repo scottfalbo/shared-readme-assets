@@ -247,7 +247,7 @@ A centralized resource of language and technologies logos for use across project
 ### Ruby on Rails
 <img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/ruby.png?raw=true" height=35 />
 
-`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/xamarin.png?raw=true`
+`https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/ruby.png?raw=true`
 
 [Back to Table of Contents](#table-of-contents)
 
